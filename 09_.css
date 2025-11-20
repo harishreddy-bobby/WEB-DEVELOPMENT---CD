@@ -1,0 +1,14 @@
+/* 
+. means class
+# means ID
+*/
+.red{
+ background-color:rgb(73, 8, 164);
+}
+.bg-yellow{
+ color:rgb(222, 217, 230);
+}
+/* css selectors */
+#seconddiv{
+    background-color:rgb(228, 17, 91);
+}

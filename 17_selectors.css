@@ -1,0 +1,38 @@
+/* element selector */
+div{
+    background-color: blueviolet;
+}
+
+/* class selector */
+.red{
+    background-color: aquamarine;
+} 
+
+/* ID selector */
+#good{
+    background-color: brown;
+}
+
+/* child selector*/
+div > p{
+   color: aquamarine;
+}
+
+/* descendant selector*/
+div p{
+   color: rgb(41, 202, 16);
+}
+
+/* universal selector */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* psuedo selector */
+a:visited{
+    color: bisque;
+}
+a:active,a:hover{
+    color: rgb(237, 17, 179);
+}

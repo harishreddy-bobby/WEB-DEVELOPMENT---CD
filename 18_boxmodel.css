@@ -1,0 +1,16 @@
+.box {
+    background-color: brown;
+}
+
+.box1 {
+    color: aqua;
+    padding: 10px;
+    margin: 5px;
+    border: 5px blue;
+}
+
+.box2 {
+    color: rgb(87, 13, 190);
+    padding: 10px;
+    margin: 10px;
+}
