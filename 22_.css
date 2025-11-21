@@ -1,0 +1,31 @@
+.box{
+    border: 2px solid black;
+    
+    
+    width: 80vw;
+    margin: 20px auto;
+
+    background-color: aqua;
+    box-sizing: border-box;
+}
+
+.box2{
+    border: 2px solid black;
+    font-size: 2rem;
+    
+    width: 80vw;
+    
+
+    background-color: aquamarine;
+}
+
+
+
+/* vw - view 
+   vh 
+   rem
+   em
+
+   vmin
+   vmax
+*/

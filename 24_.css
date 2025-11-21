@@ -1,0 +1,14 @@
+.box{
+    border:3px solid black;
+    padding:90px;
+    margin:110px;
+
+    width:100px;
+
+    box-shadow:30px 40px 15px #0fedda ;
+    
+    color:red;
+    text-shadow:2px 1px 2px #0ef0da ;
+    
+    outline:2px solid rgb(14, 159, 225);
+} 

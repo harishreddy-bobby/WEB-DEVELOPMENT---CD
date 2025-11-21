@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Science+Gothic:wght@100..900&display=swap');
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 200px;
+    width :45px;
+    padding: 20px;
+    border :3px solid red;
+    
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+h1{
+   
+   font-family : "Science Gothic", sans-serif;
+   font-size: 50px;
+   color: brown;
+   line-height: 2;
+
+   text-align: center;
+
+   text-transform: lowercase;
+
+   text-decoration-line : underline;
+   text-decoration-style: wavy;
+   text-decoration-color: aqua ;
+   text-decoration-thickness: 6px;
+   text-indent: 0%;
+   
+   
+    /* font-style: oblique;
+    font-weight: bold; */
+} 
