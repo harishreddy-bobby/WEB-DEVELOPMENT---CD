@@ -1,0 +1,38 @@
+/* global variables */
+
+:root{
+    --color:rgb(32, 204, 141);
+    --seccolor:rgb(44, 16, 220);
+    --defpad:23px;
+    --defop:0.7;
+}
+
+.nav{
+   background-color: var(--color,red);
+   color: var(--seccolor);
+}
+
+.container{
+   background-color: rgb(19, 240, 167);
+} 
+
+*{
+    margin: 0;
+    padding:var(--defpad,12px);
+}
+
+ul{
+    opacity:var(--defop,0.1);
+    list-style: none;
+    display: flex;
+}
+
+.sec{
+    --color:rgb(245, 11, 97);
+    background-color: var(--color,rgb(237, 14, 48));
+}
+
+li{
+    padding:10px;
+    margin:2px;
+}

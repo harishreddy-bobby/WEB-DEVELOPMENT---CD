@@ -1,0 +1,106 @@
+.parent {
+    width: 500px;
+    height: 600px;
+
+    position: relative;
+    top: 10px;
+    left: 20px;
+
+    display: inline-block;
+    border: 0px solid black;
+
+    background-color: #EBEEEF;
+}
+
+.child {
+    width: 350px;
+    height: 550px;
+
+    border: 0px solid rgb(97, 97, 102);
+    border-radius: 15px;
+
+    position: relative;
+    top: 25px;
+    bottom: 2px;
+    left: 65px;
+    right: 2px;
+
+    background-color: rgb(243, 246, 246);
+}
+
+.child1 {
+
+    position: relative;
+    top: 10px;
+    bottom: 2px;
+    left: 10px;
+    right: 2px;
+
+    height: 260px;
+    width: 330px;
+
+    overflow: hidden;
+
+    border: 1px solid #f9fdfa;
+    border-radius: 10px;
+
+
+}
+
+.child2,
+.child3 {
+    display: inline-block;
+
+    position: relative;
+    top: 20px;
+    left: 30px;
+    margin-right: 9px;
+
+    color: rgb(144, 137, 137);
+
+    padding: 5px;
+    border: 1px solid rgb(125, 119, 119);
+    border-radius: 1000px;
+}
+
+.child4 {
+    position: relative;
+    top: 30px;
+    left: 32px;
+
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.child5 {
+    position: relative;
+    top: 40px;
+    left: 32px;
+
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+    font-size: 18px;
+    font-weight: 60;
+}
+
+.child6{
+    display: inline-block;
+
+    position: relative;
+    top: 60px;
+    left: 110px;
+    margin-right: 9px;
+
+    color:#3A7BFF;
+    background-color:#D6E7FF;
+
+    padding: 10px;
+    border: 0px solid #a5badf;
+    border-radius: 1000px;
+
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+
+    text-align:center;
+}

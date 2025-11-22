@@ -1,0 +1,22 @@
+nav ul li{
+    list-style: circle;
+    list-style-position: inside;
+    /* list-style-image: url(https://i.pinimg.com/736x/a6/e9/32/a6e932111d00d40b9fb129154bdbc616.jpg); */
+    list-style-type: decimal;
+    
+    display:inline-block;
+    
+
+    padding: 2px;
+    margin:2px;
+    border:2px solid blue;
+
+    color: aqua;
+    background-color: bisque;
+
+    
+}
+
+body{
+    background-color: black;
+}
