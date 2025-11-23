@@ -1,0 +1,39 @@
+body{
+    background-color:var(--primarycolor);
+}
+
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+:root{
+    --primarycolor:rgb(9, 196, 81);
+    --seccolor:#010511;
+}
+
+nav{
+    background-color: var(--seccolor);
+}
+
+ul li{
+
+    padding: 10px;
+    margin: 10px;
+
+    color:var(--primarycolor);
+
+    
+
+    font-size: larger;
+    font-weight: bolder;
+
+    display:inline-block;
+    list-style: none;
+}
+
+
+hr{
+    background-color:var(--seccolor);
+    height: 1px;  
+}
